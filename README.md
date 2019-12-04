@@ -1,2 +1,2 @@
 # drawing-with-a-camera
-A substitute for graphic design tablets and tools for drawing using a simple camera.
+An affordable, accurate and available-for-all substitute for graphic design tools and tablets which can cost up to thousands of dollars normally.
